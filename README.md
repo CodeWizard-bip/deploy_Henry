@@ -84,7 +84,7 @@ deploy de la API plataforma Render plataforma para crear y ejecutar aplicaciones
 
 * Se crea un servicio en `render.com`, conectando al repositorio
 
-* Enlace de la aplicacion https://github.com/CodeWizard-bip/deploy_Henry.git.onrender.com 
+* Enlace de la aplicacion https://github.com/CodeWizard-bip/deploy_Henry.git.despl.onrender.com 
 
 ### Video
 

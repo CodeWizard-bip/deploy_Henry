@@ -1,7 +1,5 @@
 from fastapi import FastAPI, HTTPException
 import pandas as pd
-import fastparquet
-import dask.dataframe as dd
 
 
 

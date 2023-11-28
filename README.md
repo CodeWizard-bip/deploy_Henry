@@ -84,7 +84,7 @@ deploy de la API plataforma Render plataforma para crear y ejecutar aplicaciones
 
 * Se crea un servicio en `render.com`, conectando al repositorio
 
-* Enlace de la aplicacion https://despl.onrender.com
+* Enlace de la aplicacion https://despl.onrender.com/docs
 
 ### Video
 
